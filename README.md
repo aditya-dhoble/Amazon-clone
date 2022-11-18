@@ -19,3 +19,9 @@ It includes a sign up page, a home page, Cart & Payment page
 **Cart** - Whenever you add a product into your cart, you can see them in your cart page. You can choose to remove products from the cart. It also shows you the total sum of the products that we have added to the cart.  
 **Checkout Page** - In this page you see the final view of the products you want to buy. It is the extension of the Cart which it also includes feature of removing the item and showing up the net cost. Finally, It has this payment functionality provided by Stripe.
 
+#
+Few things I'm working right now and will working in the future includes
+* A sign in page to collect details of the user and use them to show their name with "Hello", instead of email
+* A small icon/block to show number of same items added to the cart, instead of showing the items again.
+* Order page to show user history of what orders have been placed by the user in the past.
+
