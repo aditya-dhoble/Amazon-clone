@@ -1,11 +1,10 @@
 
 # Amazon-Clone
 
-#
 what would a typical website clone look like? wanna get there? Head on to https://challenge-2375f.web.app/
+
 #
 ### Technologies used
-
 **Frontend** - React.js, Material-UI,  
 **Backend** - Node.js, Express.js  
 **Deployment** - Firebase  
