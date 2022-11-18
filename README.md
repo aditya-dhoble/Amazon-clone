@@ -1,8 +1,9 @@
 
 # Amazon-Clone
 
+#
 what would a typical website clone look like? wanna get there? Head on to https://challenge-2375f.web.app/
-
+#
 ### Technologies used
 
 **Frontend** - React.js, Material-UI,  
@@ -10,7 +11,7 @@ what would a typical website clone look like? wanna get there? Head on to https:
 **Deployment** - Firebase  
 **Payment Gateway** - Stripe
 
-
+#
 ### What all does it include
 
 It includes a sign up page, a home page, Cart & Payment page  
