@@ -11,6 +11,17 @@ what would a typical website clone look like? wanna get there? Head on to https:
 **Payment Gateway** - Stripe
 
 #
+### How to run:  
+In terminal type the below command 
+```
+npm start
+```  
+Then, In browser, type - http://localhost:3000  
+  
+You should see the webpage same as it appears when you click on the above live project link.
+
+  
+#
 ### What all does it include
 
 It includes a sign up page, a home page, Cart & Payment page  
